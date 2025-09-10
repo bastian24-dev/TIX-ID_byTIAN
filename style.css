@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    background-color: #0a1d3b;
+    font-family: sans-serif;
+
+}
+
+.p1{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: #FFA500;
+
+}
+
+.p2{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #ADD8E6;
+}
+
+.PROMO{
+    width: 550px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.LOGO-TIX{
+    width: 200px;
+
+}
+
+.link1{
+    color: black;
+    text-decoration: none;
+    background-color: #FFA500;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.link2{
+    color: black;
+    text-decoration: none;
+    background-color: #ADD8E6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.copyright{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #FFA500;
+}
+
+.KEMBALI{
+    text-decoration: none;
+    color: #FFA500;
+    border: 2px solid #FFA500;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.GARIS{
+    background-color: #FFA500;
+    border: none;
+    width: 600px;
+    height: 3px;
+}
+
+.JUDUL-FILM{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #FFA500;
+    font-style: bold;
+}
+
+.IMGFILM{
+    width: 250px;
+    border: 3px solid #FFA500;
+    border-radius: 10px;
+}
+
+.link-beli{
+    color: black;
+    text-decoration: none;
+    background-color: #FFA500;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.link-trailer{
+    color: black;
+    text-decoration: none;
+    background-color: #ADD8E6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Genre{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #FFA500;
+}
+
+.Durasi{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.Rating{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: red;
+}
+
+.Pemeran{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.TQ{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
